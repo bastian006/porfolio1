@@ -1,0 +1,15 @@
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\bin\Debug\net6.0\porfolio1.exe
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\bin\Debug\net6.0\porfolio1.deps.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\bin\Debug\net6.0\porfolio1.runtimeconfig.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\bin\Debug\net6.0\porfolio1.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\bin\Debug\net6.0\porfolio1.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\obj\Debug\net6.0\porfolio1.csproj.AssemblyReference.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\obj\Debug\net6.0\porfolio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\obj\Debug\net6.0\porfolio1.AssemblyInfoInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\obj\Debug\net6.0\porfolio1.AssemblyInfo.cs
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\obj\Debug\net6.0\porfolio1.csproj.CoreCompileInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\obj\Debug\net6.0\porfolio1.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\obj\Debug\net6.0\refint\porfolio1.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\obj\Debug\net6.0\porfolio1.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\obj\Debug\net6.0\porfolio1.genruntimeconfig.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\porfolio1\obj\Debug\net6.0\ref\porfolio1.dll
